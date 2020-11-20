@@ -1,0 +1,64 @@
+############################# banner ############################
+banner:
+  enable : true
+  title : "The Split Light Glass Co."
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  image : "images/logan-cameron-vrr-nnei4pE-unsplash.jpg"
+  button:
+   enable : true
+   label : "Contact Us"
+   link : "contact"
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "Bespoke leadlight glass design"
+  image : "images/celia-wigzell-iA5t1XVOcKQ-unsplash.jpg"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+  - title : "Full design service"
+    icon : " tf-pencil2"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    
+    # feature item loop
+  - title : "Restoration and repair"
+    icon : " tf-ion-hammer"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    
+    # feature item loop
+  - title : "Easy Pricing"
+    icon : " tf-ion-ios-pricetag-outline"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+  - title : "Something else"
+    icon : "tf-ion-alert"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+    # feature item loop
+  - title : "Another great thing"
+    icon : "tf-circle-compass"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+    # feature item loop
+  - title : "Final important point"
+    icon : "tf-lightbulb"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+
+############################# promo ############################
+promo:
+  enable : true
+  image : "images/kimberly-eschenbauch-03Eu7zSySPo-unsplash.jpg"
+  title : "Artesan stained glass window design."
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
+            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
+            <br><br>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+
+
