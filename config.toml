@@ -1,9 +1,7 @@
-baseURL = "http://splitlightglass.co.nz/"
+baseURL = "/"
 languageCode = "en-nz"
 title = "Split Light Glass Co"
-theme = "vex-hugo"
-
-
+theme = "vex-hugo-extended"
 
 # CSS Plugins
 [[params.plugins.css]]
@@ -35,17 +33,17 @@ weight = 1
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 5
+weight = 2
 
 [[menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 2
+weight = 1
 
 [[menu.footer]]
 name = "Terms & Conditions"
 URL = "terms-conditions"
-weight = 3
+weight = 2
 
 
 ########################### Default parameters ##########################
@@ -53,7 +51,7 @@ weight = 3
 logo = "images/smalllogo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
+description = "Bespoke artisan leadlight glass design and manufacture."
 # currency
 currency = "$"
 # contact form action
@@ -72,5 +70,3 @@ contentDir = "content/english"
 weight = 1
 # copyright
 copyright = "Website designed & developed by [Luke R](https://lukeryan.net.nz/)"
-
-# <span>Photo by <a href="https://unsplash.com/@logancam3?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Logan Cameron</a> on <a href="https://unsplash.com/s/photos/color-glass-window?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

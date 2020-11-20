@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Split Light Glass Co</title>
-    <link>http://splitlightglass.co.nz/</link>
+    <link>/</link>
     <description>Recent content on Split Light Glass Co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Website designed &amp; developed by [Luke R](https://lukeryan.net.nz/)</copyright><atom:link href="http://splitlightglass.co.nz/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Website designed &amp; developed by [Luke R](https://lukeryan.net.nz/)</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://splitlightglass.co.nz/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://splitlightglass.co.nz/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>http://splitlightglass.co.nz/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>http://splitlightglass.co.nz/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
