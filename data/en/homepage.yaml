@@ -1,8 +1,8 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "The Split Light Glass Co."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title : "The Split Light Glass Studio."
+  content : "In the beautiful North Island of New Zealand, we solely concentrate on producing bespoke lead light windows. Our windows are designed specifically for your home to be enjoyed on a daily basis. Collectively we have decades of experience."
   image : "images/logan-cameron-vrr-nnei4pE-unsplash.jpg"
   button:
    enable : true
@@ -13,37 +13,37 @@ banner:
 features:
   enable : true
   title : "Bespoke leadlight glass design"
-  image : "images/celia-wigzell-iA5t1XVOcKQ-unsplash.jpg"
+  image : "images/IMG_20201126_154235.jpg"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Full design service"
+  - title : "Custom Design "
     icon : " tf-pencil2"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Full Design Service available for either traditional and contemporary patterns can be drawn to suit what you want."
     
     # feature item loop
   - title : "Restoration and repair"
     icon : " tf-ion-hammer"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "We also restore and repair existing windows to a high standard."
     
     # feature item loop
   - title : "Easy Pricing"
     icon : " tf-ion-ios-pricetag-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "To suit your needs. A 50 % deposit is required upon acceptance with terms to complete the balance upon arrangement. Progress photos of the build will be sent to you."
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Something else"
+  - title : "Hand built"
     icon : "tf-ion-alert"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "These are hand built windows not to be confused with mass produced factory work."
 
     # feature item loop
-  - title : "Another great thing"
+  - title : "Unique works of art"
     icon : "tf-circle-compass"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "In almost all cases your window will be unique to your home."
 
     # feature item loop
   - title : "Final important point"
@@ -56,9 +56,6 @@ promo:
   enable : true
   image : "images/kimberly-eschenbauch-03Eu7zSySPo-unsplash.jpg"
   title : "Artisan stained glass window design."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+  content : "In the beautiful North Island of New Zealand, we solely concentrate on producing bespoke lead light windows. Our windows are designed specifically for your home to be enjoyed on a daily basis. Collectively we have decades of experience."
 
 
