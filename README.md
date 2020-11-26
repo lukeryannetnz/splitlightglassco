@@ -9,3 +9,7 @@ This [quickstart](https://gohugo.io/getting-started/quick-start/) is really help
 ## Building the static content
 
 `$ hugo -D`
+
+## Deploying to production
+
+`$ ./deploy.sh`

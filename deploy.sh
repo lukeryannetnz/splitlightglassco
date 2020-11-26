@@ -1,5 +1,5 @@
 #!/bin/sh
-# Uploads the contents of the current directory to the production S3 bucket. 
+# Build hugo, uploads the contents of the public directory to the production S3 bucket, invalidates cloudfront. 
 # Requires the AWS CLI configured with AWS credentials. See https://aws.amazon.com/cli/
 
 hugo -D
