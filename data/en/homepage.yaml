@@ -37,7 +37,7 @@ features:
   right_side:
     # feature item loop
   - title : "Hand built"
-    icon : "tf-ion-alert"
+    icon : "tf-ion-android-hand"
     content : "These are hand built windows not to be confused with mass produced factory work."
 
     # feature item loop
