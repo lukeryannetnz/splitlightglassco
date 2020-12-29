@@ -10,6 +10,10 @@ This [quickstart](https://gohugo.io/getting-started/quick-start/) is really help
 
 `$ hugo -D`
 
+## Running local server
+
+`$ hugo server -D`
+
 ## Deploying to production
 
 `$ ./deploy.sh`
