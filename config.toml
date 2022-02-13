@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-nz"
 title = "Split Light Glass Studio"
-theme = "vex-hugo-extended"
+theme = "vex-hugo-modified"
 
 # CSS Plugins
 [[params.plugins.css]]
