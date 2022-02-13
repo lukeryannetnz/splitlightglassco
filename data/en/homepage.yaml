@@ -9,6 +9,13 @@ banner:
    label : "Contact Us"
    link : "contact"
 
+############################# Featured images ############################
+
+featuredimages:
+  enable : true
+  title : "this is the title"
+
+
 ############################# Feature ############################
 features:
   enable : true
@@ -50,12 +57,13 @@ features:
     icon : "tf-lightbulb"
     content : "We can work from an existing window. If you require a design based on an existing window we encourage you to add a change so that an exact copy is avoided."
 
-
 ############################# promo ############################
 promo:
-  enable : true
-  image : "images/sid1.jpg"
+  enable: true
+  images:
+  - "images/featured/1.JPG"
+  - "images/featured/2.JPG"
+  - "images/featured/3.JPG"
+  - "images/featured/4.JPG"
   title : "Artisan stained glass window design."
   content : "In the beautiful North Island of New Zealand, we solely concentrate on producing lead light windows. Our windows are designed specifically for your home to be enjoyed on a daily basis. Collectively we have decades of experience."
-
-
