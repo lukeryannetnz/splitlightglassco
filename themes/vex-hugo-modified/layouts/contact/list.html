@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      {{ with .Params.office }}
+      <div class="col-lg-5 col-sm-6 mb-5">
+        <h2 class="font-weight-bold mb-4">{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify }}</p>
+        <ul class="list-unstyled contact-list">
+          <li class="mb-3"><a href="tel:{{ .mobile }}"><i class="tf-ion-ios-telephone mr-2"></i>
+              {{ .mobile }}</a></li>
+          <li class="mb-3"><a href="mailto:{{ .email }}"><i class="tf-ion-email mr-2"></i>{{ .email }}</a></li>
+          <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>{{ .location }}
+          </li>
+        </ul>
+      </div>
+      {{ end }}
+      <div class="col-lg-3 col-sm-6 mb-5">
+        {{ with .Params.opennig_hour }}
+        <h2 class="font-weight-bold mb-4">{{ .title | markdownify }}</h2>
+        <ul class="list-unstyled">
+          {{ range .day_time }}
+          <li class="mb-2">{{ . | markdownify }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
