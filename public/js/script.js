@@ -6,6 +6,13 @@ $(window).on('load', function () {
 (function ($) {
   'use strict';
 
+   // featured Slider
+   $('.featured-image-slider').slick({
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 2000,
+    arrows: false
+  });
   
   // product Slider
   $('.product-image-slider').slick({
