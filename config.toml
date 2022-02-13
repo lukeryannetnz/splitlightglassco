@@ -3,6 +3,8 @@ languageCode = "en-nz"
 title = "Split Light Glass Studio"
 theme = "vex-hugo-modified"
 
+enableRobotsTXT = true
+
 # CSS Plugins
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
