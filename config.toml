@@ -4,6 +4,7 @@ title = "Split Light Glass Studio"
 theme = "vex-hugo-modified"
 
 enableRobotsTXT = true
+googleAnalytics = "G-Q94CGQ74D8"
 
 # CSS Plugins
 [[params.plugins.css]]
