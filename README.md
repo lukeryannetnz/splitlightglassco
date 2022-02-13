@@ -1,6 +1,6 @@
 # Splitlight glass co website
 
-This is a static website hosted at [splitlightglass.com](https://www.splitlightglass.com). It was generated using [hugo](https://gohugo.io/) and uses the [vex-hugo](https://github.com/themefisher/vex-hugo) theme.
+This is a static website hosted at [splitlightglass.com](https://www.splitlightglass.com). It was generated using [hugo](https://gohugo.io/) and uses a modified version of the [vex-hugo](https://github.com/themefisher/vex-hugo) theme which has been committed to this repository.
 
 ## Getting started
 
