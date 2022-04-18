@@ -20,6 +20,8 @@ features:
   - "images/featured/2.JPG"
   - "images/featured/3.JPG"
   - "images/featured/4.JPG"
+  - "images/featured/5.JPG"
+  - "images/featured/6.JPG"
 
   # feature at the left of the image
   left_side:
@@ -59,6 +61,6 @@ features:
 ############################# promo ############################
 promo:
   enable: true
-  image : "images/kimberly-eschenbauch-03Eu7zSySPo-unsplash.jpg"
+  image : "images/bath-3.jpeg"
   title : "Artisan stained glass window design."
   content : "In the beautiful North Island of New Zealand, we solely concentrate on producing lead light windows. Our windows are designed specifically for your home to be enjoyed on a daily basis. Collectively we have decades of experience."
