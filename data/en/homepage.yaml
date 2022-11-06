@@ -22,6 +22,10 @@ features:
   - "images/featured/4.JPG"
   - "images/featured/5.JPG"
   - "images/featured/6.JPG"
+  - "images/featured/7.JPG"
+  - "images/featured/8.JPG"
+  - "images/featured/9.JPG"
+  - "images/featured/10.JPG"
 
   # feature at the left of the image
   left_side:
@@ -33,7 +37,7 @@ features:
     # feature item loop
   - title : "Restoration and repair"
     icon : " tf-ion-hammer"
-    content : "We also restore and repair existing windows to a high standard."
+    content : "We also restore and repair existing windows and light shades to a high standard."
     
     # feature item loop
   - title : "Easy pricing"
