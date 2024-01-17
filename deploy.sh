@@ -6,4 +6,4 @@ hugo -D
 
 aws s3 sync ./public s3://splitlightglass.com --region ap-southeast-2 --exclude ".git/*"
 
-aws cloudfront create-invalidation --distribution-id EQ9UK8VMORZRD --paths "/index.html" "/" "/contact" "/contact/" "/js" "/js/script.js"
+aws cloudfront create-invalidation --distribution-id EQ9UK8VMORZRD --paths "/index.html" "/" "/contact" "/contact/" "/work" "/work/" "/js" "/js/script.js"

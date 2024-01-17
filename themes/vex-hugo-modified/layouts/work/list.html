@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<section class="feature-list section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center mb-5">
+        <h1>{{.Title}}</h1>
+      </div>
+    </div>
+    {{ range .Params.work }}
+    <div class="row mb-40">
+      <div class="col-12 align-self-center text-center">
+        <div class="content">
+          <h4 class="subheading">{{ .name | markdownify }}</h4>
+          <p>{{ .description }}</p>
+          <div class="product-slider">
+            <div class="block">
+              <div class="gallery-overlay">
+                <a href="{{ .image | absURL }}" class="gallery-popup">
+                  <i class="tf-ion-android-open"></i>
+                </a>
+              </div>
+              <img class="img-fluid" src="{{ .image | absURL }}" alt="{{.Title}}">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}

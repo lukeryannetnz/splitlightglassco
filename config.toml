@@ -34,9 +34,14 @@ URL = "/"
 weight = 1
 
 [[menu.main]]
+name = "Our work"
+URL = "work"
+weight = 2
+
+[[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 2
+weight = 3
 
 [[menu.footer]]
 name = "Home"
@@ -44,15 +49,22 @@ URL = "/"
 weight = 1
 
 [[menu.footer]]
+name = "Our work"
+URL = "work"
+weight = 2
+
+[[menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 2
+weight = 3
 
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/smalllogo.png"
-logo_width = "100px"
+smalllogo = "images/smalllogo.png"
+smalllogo_width = "100px"
+logo = "images/logo.png"
+logo_width = "400px"
 # Meta data
 description = "Bespoke artisan leadlight glass design and manufacture."
 # currency
